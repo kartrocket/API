@@ -98,6 +98,7 @@
 						'width' => '10',
 						'height' => '10',
 						'tax_class_id' => '9',
+						'download_images' => '1',
 						'product_image' => $product_image,
 						'product_option' => $product_option,
 						'product_attribute' => $product_attribute,
